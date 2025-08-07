@@ -1,24 +1,31 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fahimahmed-dev/fahimahmed-dev/main/assets/banner.png" alt="Fahim Ahmed | MERN Stack Developer" />
+  <img src="https://raw.githubusercontent.com/Siiwowowow/Siiwowowow/main/assets/banner.png" alt="Sajjadur Rahman Fahim | MERN Stack Developer" />
 </p>
 
-<!-- Name & Designation -->
-<h1 align="center">Hi there, I'm Fahim Ahmed 👋</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Next.js Enthusiast</h3>
+<h1 align="center">Hi there, I'm Sajjadur Rahman Fahim 👋</h1>
+<h3 align="center">Full Stack Web Developer | MERN Stack | Next.js Enthusiast</h3>
 
-<!-- About Me -->
+---
+
+### 📍 Location & Contact
+- 📍 **Location**: Bongshal, Dhaka-1100, Bangladesh  
+- 📧 **Email**: jacksonville71989@gmail.com  
+- 📱 **Phone**: +8801601325068
+
+---
+
 ### 👨‍💻 About Me
-I'm a passionate and detail-oriented full-stack developer specializing in the **MERN stack**. With solid hands-on experience in **Next.js**, I build dynamic, responsive, and scalable web applications. I love clean code, reusable components, and solving real-world problems through technology.
+I’m a passionate and self-driven **MERN Stack Developer** with experience in building full-stack web applications using **JavaScript, React, Node.js, MongoDB, and Next.js**. I love exploring new technologies and writing clean, maintainable code. I’m also familiar with **Tailwind CSS** and **Daisy UI** for efficient and aesthetic UI development.
 
-<!-- Current Activities -->
-### 🚀 What I’m Doing Right Now
-- 🔭 Working on a **tourism website** built with **Next.js** and MongoDB
-- 🌱 Exploring advanced features in **Next.js 14+** like App Router and Server Actions
-- 🛠️ Building a custom **authentication system** using NextAuth and MongoDB (Native Driver)
-- 📚 Continuously learning and leveling up my **full-stack skills**
+---
 
-<!-- Skills -->
+### 🚀 Current Activities
+- 🔭 I’m currently working on an **e-commerce website** using Next.js and MongoDB.
+- 🌱 I’m exploring advanced features of **Next.js**, including App Router and Server Components.
+
+---
+
 ### 🛠 Tech Stack
 
 #### 🌐 Frontend
@@ -36,120 +43,99 @@ I'm a passionate and detail-oriented full-stack developer specializing in the **
   <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode" />
 </p>
 
-<!-- Socials -->
-### 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fahimahmed-dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/fahimahmed-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=vercel&logoColor=white)](https://fahimahmed.dev)
+---
 
-<!-- GitHub Stats -->
+### 🌐 Social Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sajjadur-rahman-fahim-9384b3379)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/16wnF78psi/?mibextid=wwXIfr)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801601325068)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimahmed-dev&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siiwowowow&show_icons=true&theme=react" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fahimahmed-dev&theme=react" />
+  <img src="https://streak-stats.demolab.com?user=Siiwowowow&theme=react" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimahmed-dev&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siiwowowow&layout=compact&theme=react" />
 </p>
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Pinned Repositories
 
-### 1. Tourism Website
+### 1️⃣ SPORTS CLUB MANAGEMENT SYSTEM
 
-**Description**: A dynamic tourism website built using **Next.js** and **MongoDB**, with features like destination search, user login, and booking system.
+**Description**: A full-stack management system for managing a single sports club's data and operations. Includes features like member registration, event scheduling, and admin dashboard.
 
-🔗 [Live Demo](https://tourism-fahim.vercel.app)  
-🛠 Technologies: `Next.js`, `Tailwind`, `MongoDB`, `Node.js`, `Vercel`
-
-📘 [View Repository](https://github.com/fahimahmed-dev/tourism-app)
-
----
-
-### 2. Auth System with NextAuth
-
-**Description**: A custom login/signup authentication project using **NextAuth**, MongoDB (Native Driver), and protected routes in Next.js.
-
-🔗 [Live Demo](https://auth-next-fahim.vercel.app)  
-🛠 Technologies: `Next.js`, `NextAuth`, `MongoDB`, `Tailwind CSS`
-
-📘 [View Repository](https://github.com/fahimahmed-dev/nextauth-auth-app)
+🔗 [Live Link](https://a-12-sport-org.web.app)  
+📁 [GitHub Repository](https://github.com/Siiwowowow/SPORTS-CLUB-MANAGEMENT-SYSTEM)  
+🛠 Technologies: `React`, `Firebase`, `Tailwind CSS`, `JavaScript`
 
 ---
 
-### 3. E-commerce Frontend UI
+### 2️⃣ E-COMMERCE UI (Client-side)
 
-**Description**: A sleek and responsive UI for an e-commerce platform with product listings, cart logic, and category filters.
+**Description**: A fully responsive frontend UI for an e-commerce platform built using React and Tailwind.
 
-🔗 [Live Demo](https://ecommerce-fahim.vercel.app)  
-🛠 Technologies: `React`, `Tailwind`, `React Router`
-
-📘 [View Repository](https://github.com/fahimahmed-dev/ecommerce-ui)
-
----
-
-> 💡 Pro Tip: Make sure each of your project repositories contains a detailed `README.md` file as per the format below 👇
+🔗 [Live Demo](https://your-ecommerce-ui.vercel.app)  
+📁 [GitHub Repository](https://github.com/Siiwowowow/ecommerce-ui)  
+🛠 Technologies: `React`, `Tailwind CSS`, `JavaScript`
 
 ---
 
-## 📄 Project README Template
+### 3️⃣ AUTH SYSTEM WITH NEXTAUTH
+
+**Description**: A secure authentication system built with Next.js and NextAuth, using MongoDB as the database.
+
+🔗 [Live Demo](https://your-auth-app.vercel.app)  
+📁 [GitHub Repository](https://github.com/Siiwowowow/nextauth-auth-system)  
+🛠 Technologies: `Next.js`, `NextAuth`, `Tailwind`, `MongoDB`
+
+---
+
+## 🗂 Sample README Template for Projects
 
 ```md
-# Project Name
+# Project Title
 
 ## 🔗 Live Link
-[View Live](https://your-live-link.com)
+[Live Project](https://live-link.com)
 
-## 📝 Description
-Short overview of the project. What does it do? Who is it for?
+## 📄 Description
+A brief overview of what the project does and its core purpose.
 
-## 📷 Screenshot
-![Screenshot](./screenshot.png)
-
-## 🚀 Tech Stack
+## 🧪 Technologies Used
 - React / Next.js
 - Tailwind CSS
-- MongoDB / Node.js
-- Other Tools/Libs
+- Node.js / MongoDB
+- Firebase (if any)
 
-## 🌟 Features
-- Authentication
-- Mobile Responsive
-- Filtering/Search
-- CRUD Operations
+## 🖼 Screenshot
+![Screenshot](./screenshot.png)
+
+## ✨ Features
+- Responsive Design
+- Auth System
+- Admin Dashboard
+- Live Search
 
 ## 📦 Dependencies
-- next
 - react
+- next
 - tailwindcss
 - next-auth
-- mongodb
+- mongoose
 
-## 🛠️ Run Locally
+## ⚙️ Run Locally
 ```bash
 git clone https://github.com/your-username/project-name.git
 cd project-name
 npm install
 npm run dev
-
-
-<!--
-**Siiwowowow/Siiwowowow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

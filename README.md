@@ -18,11 +18,15 @@
 ### 👨‍💻 About Me
 I’m a passionate and self-driven **MERN Stack Developer** with experience in building full-stack web applications using **JavaScript, React, Node.js, MongoDB, and Next.js**. I love exploring new technologies and writing clean, maintainable code. I’m also familiar with **Tailwind CSS** and **Daisy UI** for efficient and aesthetic UI development.
 
+I'm committed to continuous learning, team collaboration, and delivering user-friendly web experiences.
+
 ---
 
 ### 🚀 Current Activities
 - 🔭 I’m currently working on an **e-commerce website** using Next.js and MongoDB.
 - 🌱 I’m exploring advanced features of **Next.js**, **React**, **Node.js**, and **MongoDB**.
+- 🧪 Experimenting with **NextAuth**, **App Router**, and **Server Actions**.
+- 💬 Learning about **backend architecture and performance optimization**.
 
 ---
 
@@ -40,7 +44,7 @@ I’m a passionate and self-driven **MERN Stack Developer** with experience in b
 
 #### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,figma" />
 </p>
 
 ---
@@ -97,3 +101,21 @@ I’m a passionate and self-driven **MERN Stack Developer** with experience in b
 🔗 [Live Link](https://room-mate-auth.web.app)  
 📁 [GitHub Repository](https://github.com/Siiwowowow/Room-Mate-Finder)  
 🛠 Technologies: `React`, `Firebase`, `Tailwind CSS`, `JavaScript`
+
+---
+
+### 🧠 Additional Skills
+- Responsive design & mobile-first development
+- Firebase Authentication & Hosting
+- RESTful API integration
+- Clean UI with DaisyUI & Tailwind
+- Git version control & collaborative workflows
+- Hosting projects using Vercel & Firebase
+
+---
+
+### 📌 Future Goals
+- 🧩 Learn TypeScript deeply and integrate into new projects
+- ⚙️ Build more full-stack apps with advanced backend features
+- 💼 Contribute to open-source projects and tech communities
+- 📈 Continuously improve UI/UX design practices and performance optimization

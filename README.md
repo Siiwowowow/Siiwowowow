@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/zvC26BY/photo-2025-08-07-20-19-28.jpg" alt="Sajjadur Rahman Fahim | MERN Stack Developer" />
+  <img  src="https://i.ibb.co.com/zvC26BY/photo-2025-08-07-20-19-28.jpg" alt="Sajjadur Rahman Fahim | MERN Stack Developer" />
 </p>
 
 <h1 align="center">Hi there, I'm Sajjadur Rahman Fahim 👋</h1>

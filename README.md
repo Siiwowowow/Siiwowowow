@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/NdMcM1Sv/Yellow-Black-Geometric-Personal-Branding-Linked-In-Banner.png" alt="Sajjadur Rahman Fahim | MERN Stack Developer" />
+  <img src="https://i.ibb.co.com/zvC26BY/photo-2025-08-07-20-19-28.jpg" alt="Sajjadur Rahman Fahim | MERN Stack Developer" />
 </p>
 
 <h1 align="center">Hi there, I'm Sajjadur Rahman Fahim 👋</h1>
@@ -78,9 +78,26 @@ I'm committed to continuous learning, team collaboration, and delivering user-fr
 
 **Description**: A full-stack management system for managing a single sports club's data and operations. Includes features like member registration, event scheduling, and admin dashboard.
 
+![Screenshot](https://i.ibb.co/x8w8SCF/sportsclub-screenshot.jpg)
+
 🔗 [Live Link](https://a-12-sport-org.web.app)  
 📁 [GitHub Repository](https://github.com/Siiwowowow/SPORTS-CLUB-MANAGEMENT-SYSTEM)  
 🛠 Technologies: `React`, `Firebase`, `Tailwind CSS`, `JavaScript`
+
+**Core Features:**
+- Member registration and listing
+- Event scheduling
+- Role-based admin dashboard
+
+**Dependencies:** Firebase, React Router, Tailwind
+
+**Run Locally:**
+```bash
+git clone https://github.com/Siiwowowow/SPORTS-CLUB-MANAGEMENT-SYSTEM.git
+cd SPORTS-CLUB-MANAGEMENT-SYSTEM
+npm install
+npm start
+```
 
 ---
 
@@ -88,9 +105,26 @@ I'm committed to continuous learning, team collaboration, and delivering user-fr
 
 **Description**: A responsive food tracking application allowing users to log meals and monitor nutritional values. Integrated with Firebase for authentication.
 
+![Screenshot](https://i.ibb.co/68m17v5/foodtracker-screenshot.jpg)
+
 🔗 [Live Link](https://food-tracker-auth.web.app/)  
 📁 [GitHub Repository](https://github.com/Siiwowowow/Food-Tracker)  
 🛠 Technologies: `React`, `Firebase`, `Tailwind CSS`, `JavaScript`
+
+**Core Features:**
+- User registration and login
+- Food logging and search
+- Nutrient tracking dashboard
+
+**Dependencies:** Firebase Auth, React Context API, Tailwind
+
+**Run Locally:**
+```bash
+git clone https://github.com/Siiwowowow/Food-Tracker.git
+cd Food-Tracker
+npm install
+npm start
+```
 
 ---
 
@@ -98,9 +132,26 @@ I'm committed to continuous learning, team collaboration, and delivering user-fr
 
 **Description**: A platform that helps individuals find compatible roommates based on location, budget, lifestyle preferences, and interests. Includes user authentication and chat features.
 
+![Screenshot](https://i.ibb.co/MV2r9g4/roommate-screenshot.jpg)
+
 🔗 [Live Link](https://room-mate-auth.web.app)  
 📁 [GitHub Repository](https://github.com/Siiwowowow/Room-Mate-Finder)  
 🛠 Technologies: `React`, `Firebase`, `Tailwind CSS`, `JavaScript`
+
+**Core Features:**
+- Search and filter roommates
+- Private chat system
+- User profile customization
+
+**Dependencies:** Firebase Firestore & Auth, React Router, Tailwind
+
+**Run Locally:**
+```bash
+git clone https://github.com/Siiwowowow/Room-Mate-Finder.git
+cd Room-Mate-Finder
+npm install
+npm start
+```
 
 ---
 

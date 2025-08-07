@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img  src="https://i.ibb.co.com/zvC26BY/photo-2025-08-07-20-19-28.jpg" alt="Sajjadur Rahman Fahim | MERN Stack Developer" />
+  <img src="https://i.ibb.co.com/zvC26BY/photo-2025-08-07-20-19-28.jpg" alt="Sajjadur Rahman Fahim | MERN Stack Developer" />
 </p>
 
 <h1 align="center">Hi there, I'm Sajjadur Rahman Fahim 👋</h1>
@@ -22,7 +22,7 @@ I’m a passionate and self-driven **MERN Stack Developer** with experience in b
 
 ### 🚀 Current Activities
 - 🔭 I’m currently working on an **e-commerce website** using Next.js and MongoDB.
-- 🌱 I’m exploring advanced features of **Next.js**, including App Router and Server Components.
+- 🌱 I’m exploring advanced features of **Next.js**, **React**, **Node.js**, and **MongoDB**.
 
 ---
 
@@ -80,62 +80,20 @@ I’m a passionate and self-driven **MERN Stack Developer** with experience in b
 
 ---
 
-### 2️⃣ E-COMMERCE UI (Client-side)
+### 2️⃣ FOOD TRACKER
 
-**Description**: A fully responsive frontend UI for an e-commerce platform built using React and Tailwind.
+**Description**: A responsive food tracking application allowing users to log meals and monitor nutritional values. Integrated with Firebase for authentication.
 
-🔗 [Live Demo](https://your-ecommerce-ui.vercel.app)  
-📁 [GitHub Repository](https://github.com/Siiwowowow/ecommerce-ui)  
-🛠 Technologies: `React`, `Tailwind CSS`, `JavaScript`
-
----
-
-### 3️⃣ AUTH SYSTEM WITH NEXTAUTH
-
-**Description**: A secure authentication system built with Next.js and NextAuth, using MongoDB as the database.
-
-🔗 [Live Demo](https://your-auth-app.vercel.app)  
-📁 [GitHub Repository](https://github.com/Siiwowowow/nextauth-auth-system)  
-🛠 Technologies: `Next.js`, `NextAuth`, `Tailwind`, `MongoDB`
+🔗 [Live Link](https://food-tracker-auth.web.app/)  
+📁 [GitHub Repository](https://github.com/Siiwowowow/Food-Tracker)  
+🛠 Technologies: `React`, `Firebase`, `Tailwind CSS`, `JavaScript`
 
 ---
 
-## 🗂 Sample README Template for Projects
+### 3️⃣ ROOM MATE FINDER
 
-```md
-# Project Title
+**Description**: A platform that helps individuals find compatible roommates based on location, budget, lifestyle preferences, and interests. Includes user authentication and chat features.
 
-## 🔗 Live Link
-[Live Project](https://live-link.com)
-
-## 📄 Description
-A brief overview of what the project does and its core purpose.
-
-## 🧪 Technologies Used
-- React / Next.js
-- Tailwind CSS
-- Node.js / MongoDB
-- Firebase (if any)
-
-## 🖼 Screenshot
-![Screenshot](./screenshot.png)
-
-## ✨ Features
-- Responsive Design
-- Auth System
-- Admin Dashboard
-- Live Search
-
-## 📦 Dependencies
-- react
-- next
-- tailwindcss
-- next-auth
-- mongoose
-
-## ⚙️ Run Locally
-```bash
-git clone https://github.com/your-username/project-name.git
-cd project-name
-npm install
-npm run dev
+🔗 [Live Link](https://room-mate-auth.web.app)  
+📁 [GitHub Repository](https://github.com/Siiwowowow/Room-Mate-Finder)  
+🛠 Technologies: `React`, `Firebase`, `Tailwind CSS`, `JavaScript`

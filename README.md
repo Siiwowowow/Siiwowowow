@@ -1,88 +1,141 @@
-Sajjadur Rahman Fahim - MERN Stack Developer
-📍 Bongshal, Dhaka-1100 | 📧 jacksonville71989@gmail.com | 📞 +8801601325068
-
-GitHub Profile README.md
-Create a file named README.md in your profile repository (repository name must match your GitHub username):
-
-markdown
-<h1 align="center">Hi 👋, I'm Sajjadur Rahman Fahim</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
-
+<!-- Banner Image -->
 <p align="center">
-  <a href="https://github.com/Siiwowowow">
-    <img src="https://komarev.com/ghpvc/?username=Siiwowowow&label=Profile%20views&color=0e75b6&style=flat" alt="Siiwowowow" />
-  </a>
-  <a href="https://linkedin.com/in/sajjadur-rahman-fahim-9384b3379">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://fb.com/share/16wnF78psi">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://wa.me/8801601325068">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
-  </a>
+  <img src="https://i.ibb.co.com/zvC26BY/photo-2025-08-07-20-19-28.jpg" alt="Sajjadur Rahman Fahim | MERN Stack Developer" />
+</p>
+
+<h1 align="center">Hi there, I'm Sajjadur Rahman Fahim 👋</h1>
+<h3 align="center">Full Stack Web Developer | MERN Stack | Next.js Enthusiast</h3>
+
+---
+
+### 📍 Location & Contact
+- 📍 **Location**: Bongshal, Dhaka-1100, Bangladesh  
+- 📧 **Email**: jacksonville71989@gmail.com  
+- 📱 **Phone**: +8801601325068
+
+---
+
+### 👨‍💻 About Me
+I’m a passionate and self-driven **MERN Stack Developer** with experience in building full-stack web applications using **JavaScript, React, Node.js, MongoDB, and Next.js**. I love exploring new technologies and writing clean, maintainable code. I’m also familiar with **Tailwind CSS** and **Daisy UI** for efficient and aesthetic UI development.
+
+---
+
+### 🚀 Current Activities
+- 🔭 I’m currently working on an **e-commerce website** using Next.js and MongoDB.
+- 🌱 I’m exploring advanced features of **Next.js**, including App Router and Server Components.
+
+---
+
+### 🛠 Tech Stack
+
+#### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+#### 💾 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+#### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode" />
 </p>
 
 ---
 
-## **🚀 About Me**
-```javascript
-const sajjad = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript"],
-  frameworks: ["React", "Next.js", "Express"],
-  databases: ["MongoDB"],
-  styling: ["Tailwind CSS", "Daisy UI"],
-  currentFocus: "Building e-commerce solutions",
-  funFact: "I turn coffee into code"
-}
-🛠 Tech Stack
-Frontend
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+### 🌐 Social Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sajjadur-rahman-fahim-9384b3379)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/16wnF78psi/?mibextid=wwXIfr)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801601325068)
 
-Backend
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+---
 
-🔥 Current Activities
-🔭 Working on E-commerce Platform
+### 📊 GitHub Stats
 
-🌱 Learning Advanced Next.js
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siiwowowow&show_icons=true&theme=react" />
+</p>
 
-👯 Looking to collaborate on Open Source Projects
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Siiwowowow&theme=react" />
+</p>
 
-💬 Ask me about MERN Stack Development
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siiwowowow&layout=compact&theme=react" />
+</p>
 
-📫 Reach me: jacksonville71989@gmail.com
+---
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Siiwowowow&show_icons=true&theme=radical" alt="Siiwowowow" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siiwowowow&theme=radical" alt="Siiwowowow" width="48%"/> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siiwowowow&layout=compact&theme=radical" alt="Top Languages"/> </p>
-🏆 Featured Projects
-1. 🏟️ Sports Club Management System
-https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firebase&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+## 📌 Pinned Repositories
 
-Tech Used: React, Node.js, MongoDB, Tailwind CSS
+### 1️⃣ SPORTS CLUB MANAGEMENT SYSTEM
 
-📞 Contact Me
-<p align="center"> <a href="mailto:jacksonville71989@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://wa.me/8801601325068"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/> </a> <a href="https://www.linkedin.com/in/sajjadur-rahman-fahim-9384b3379"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p> ```
-🖼️ Recommended Assets
-Profile Banner: Create a 1500x500px banner with your name and "MERN Stack Developer"
+**Description**: A full-stack management system for managing a single sports club's data and operations. Includes features like member registration, event scheduling, and admin dashboard.
 
-Project Screenshots: Add clean screenshots to all project repositories
+🔗 [Live Link](https://a-12-sport-org.web.app)  
+📁 [GitHub Repository](https://github.com/Siiwowowow/SPORTS-CLUB-MANAGEMENT-SYSTEM)  
+🛠 Technologies: `React`, `Firebase`, `Tailwind CSS`, `JavaScript`
 
-Skill Icons: Use Shields.io for badges
+---
 
-✅ Final Checklist
-Update profile picture
+### 2️⃣ E-COMMERCE UI (Client-side)
 
-Create profile README.md
+**Description**: A fully responsive frontend UI for an e-commerce platform built using React and Tailwind.
 
-Pin 3 best repositories
+🔗 [Live Demo](https://your-ecommerce-ui.vercel.app)  
+📁 [GitHub Repository](https://github.com/Siiwowowow/ecommerce-ui)  
+🛠 Technologies: `React`, `Tailwind CSS`, `JavaScript`
 
-Add detailed READMEs to all pinned repos
+---
 
-Keep contribution graph active
+### 3️⃣ AUTH SYSTEM WITH NEXTAUTH
+
+**Description**: A secure authentication system built with Next.js and NextAuth, using MongoDB as the database.
+
+🔗 [Live Demo](https://your-auth-app.vercel.app)  
+📁 [GitHub Repository](https://github.com/Siiwowowow/nextauth-auth-system)  
+🛠 Technologies: `Next.js`, `NextAuth`, `Tailwind`, `MongoDB`
+
+---
+
+## 🗂 Sample README Template for Projects
+
+```md
+# Project Title
+
+## 🔗 Live Link
+[Live Project](https://live-link.com)
+
+## 📄 Description
+A brief overview of what the project does and its core purpose.
+
+## 🧪 Technologies Used
+- React / Next.js
+- Tailwind CSS
+- Node.js / MongoDB
+- Firebase (if any)
+
+## 🖼 Screenshot
+![Screenshot](./screenshot.png)
+
+## ✨ Features
+- Responsive Design
+- Auth System
+- Admin Dashboard
+- Live Search
+
+## 📦 Dependencies
+- react
+- next
+- tailwindcss
+- next-auth
+- mongoose
+
+## ⚙️ Run Locally
+```bash
+git clone https://github.com/your-username/project-name.git
+cd project-name
+npm install
+npm run dev

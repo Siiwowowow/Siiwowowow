@@ -145,6 +145,43 @@ npm start
 
 **Dependencies:** Firebase Firestore & Auth, React Router, Tailwind
 
+---
+
+### 4️⃣ STUDENT TOOLKIT
+
+**Description**: A full-stack MERN application designed to make student life easier by providing essential tools like class scheduling, budget tracking, and productivity utilities.
+
+![Screenshot](https://i.ibb.co.com/YTG6Yzt/student-toolkit-screenshot.jpg) <!-- Replace with an actual screenshot if you have one -->
+
+🔗 [Live Link](https://student-toolkit-17af6.web.app/)  
+📁 [Client Repository](https://github.com/Siiwowowow/Student-toolkit-rep-client)  
+📁 [Server Repository](https://github.com/Siiwowowow/Student-toolkit-real-server)  
+🛠 Technologies: `React`, `Node.js`, `Express`, `MongoDB`, `Tailwind CSS`
+
+**Core Features:**
+- Class scheduler for managing courses and routines  
+- Budget tracker for expense management  
+- Exam preparation tools  
+- Study planner and productivity utilities  
+- Wellness hub for students  
+
+**Dependencies:** React Router, Express, MongoDB, Tailwind  
+
+**Run Locally:**
+```bash
+# Clone client
+git clone https://github.com/Siiwowowow/Student-toolkit-rep-client.git
+cd Student-toolkit-rep-client
+npm install
+npm start
+
+# Clone server
+git clone https://github.com/Siiwowowow/Student-toolkit-real-server.git
+cd Student-toolkit-real-server
+npm install
+npm start
+
+
 **Run Locally:**
 ```bash
 git clone https://github.com/Siiwowowow/Room-Mate-Finder.git

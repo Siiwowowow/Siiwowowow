@@ -4,40 +4,31 @@
 </p>
 
 <h1 align="center">Hi there, I'm Sajjadur Rahman Fahim 👋</h1>
-<h3 align="center">Full Stack Developer | Node.js • Express • Next.js • TypeScript</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Node.js+%7C+Express+%7C+PostgreSQL+%7C+MongoDB;Next.js+%7C+TypeScript+%7C+Go+Lang;Building+scalable+web+applications" alt="Typing SVG" />
-</p>
+<h3 align="center">Full Stack Developer | Next.js & TypeScript Enthusiast</h3>
 
 ---
 
 ### 📍 Location & Contact
 - 📍 **Location**: Bongshal, Dhaka-1100, Bangladesh
-- 📧 **Email**: jacksonville71989@gmail.com
+- 📧 **Email**: fahimrahman0145@gmail.com
 - 📱 **Phone**: +8801601325068
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a **Full Stack Developer** who builds complete, production-ready web applications — from database design to polished frontend interfaces. I work across the stack with **Node.js, Express, TypeScript, PostgreSQL, MongoDB, Go, Next.js, and JavaScript**, and I care about writing clean, scalable, and secure code.
+I'm a passionate and results-driven **Full Stack Developer** with a strong focus on the MERN stack, but with a deep expertise in modern technologies like **Next.js, TypeScript, PostgreSQL, and Go**. My journey in software development is fueled by a love for building scalable, high-performance, and user-centric web applications.
 
-- 🔐 Experienced with **Better Auth, JWT**, and role-based access control
-- 🗄️ Comfortable with both **SQL (PostgreSQL)** and **NoSQL (MongoDB, Firebase)** databases
-- ⚡ I use **TanStack Query/Form**, **Axios**, and **Zod** for fast, validated, type-safe data flows
-- 🐳 I containerize and ship applications with **Docker**
-- 🌱 Currently expanding my backend skills with **Go Lang**
-
-I'm committed to continuous learning, team collaboration, and delivering real, working products — not just tutorials.
+I have a proven track record of delivering complex projects, from e-commerce platforms and LMS systems to specialized tools like IELTS preparation portals. I am committed to writing clean, maintainable code, exploring new technologies, and collaborating effectively within teams. I thrive on challenges that require robust backend architecture and seamless frontend experiences.
 
 ---
 
 ### 🚀 Current Activities
-- 🔭 Currently building **IELTSPrep** — a full-scale IELTS exam preparation platform with CBT-style mock tests.
-- 🌱 Deepening my skills in **Go Lang** and **Docker** for backend and deployment.
-- 🧪 Experimenting with **Better Auth**, **Redis caching**, and scalable **PostgreSQL** schema design.
-- 💬 Exploring performance optimization and clean backend architecture patterns.
+
+- 🔭 I'm currently working on an **AI-powered IELTS evaluation feature** for my IELTS preparation platform.
+- 🌱 I’m expanding my knowledge in **Go Lang, WebSockets, and advanced database optimization**.
+- 🧪 Experimenting with **Docker, Redis, and microservices architecture**.
+- 💬 Learning about **cloud deployment strategies (AWS/Azure) and CI/CD pipelines**.
 
 ---
 
@@ -45,28 +36,18 @@ I'm committed to continuous learning, team collaboration, and delivering real, w
 
 #### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,axios" />
 </p>
 
 #### 💾 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,postgres,mongodb,redis" />
-</p>
-
-#### 🔐 Auth & Data
-<p>
-  <img src="https://img.shields.io/badge/Better%20Auth-000000?style=flat" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,postgres,mongodb,redis,jwt" />
 </p>
 
 #### 🧰 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,firebase,postman,vscode,figma" />
 </p>
-
 ---
 
 ### 🌐 Social Links
@@ -92,166 +73,286 @@ I'm committed to continuous learning, team collaboration, and delivering real, w
 
 ---
 
-## 📌 Pinned & Featured Projects
+## 📌 Pinned Projects
 
-### 1️⃣ IELTSPrep — Full Stack IELTS Preparation Platform
+### 1️⃣ IELTSPrep
+**A modern full-stack IELTS preparation platform** that helps students practice Listening, Reading, Writing, and Speaking with realistic mock tests, performance tracking, authentication, and an intuitive dashboard.
 
-**Overview**: A modern full-stack IELTS preparation platform that helps students practice Listening, Reading, Writing, and Speaking with realistic CBT-style mock tests, performance tracking, authentication, and an intuitive dashboard.
+[![Image](https://i.ibb.co.com/mCtp5MB7/Screenshot-2.png)](https://ielts-project-client.vercel.app/)
 
-🔗 [Live Link](https://ielts-project-client.vercel.app/)
-📁 [Client Repo](https://github.com/Siiwowowow/IELTS-Project-Client) · [Server Repo](https://github.com/Siiwowowow/IELTS-Project-Server)
-
-🛠 **Tech Stack**: `Next.js` `TypeScript` `Express.js` `PostgreSQL` `Redis` `Better Auth` `JWT` `Zod` `TanStack Query` `TanStack Form` `Axios` `NodeMailer` `Tailwind CSS`
+🔗 **[Live Link](https://ielts-project-client.vercel.app/)** | 📁 **[Client Repo](https://github.com/Siiwowowow/IELTS-Project-Client)** | 📁 **[Server Repo](https://github.com/Siiwowowow/IELTS-Project-Server)**
 
 **Core Features:**
-- Complete Listening, Reading, Writing & Speaking modules
+- Complete IELTS Listening, Reading, Writing & Speaking modules
 - Real CBT-style Full Mock Tests
-- Secure authentication with Better Auth + role-based Student/Teacher/Admin dashboards
-- Performance analytics & progress tracking
-- Email verification via NodeMailer, Redis caching for performance
+- Secure Authentication with Better Auth
+- Role-based Student, Teacher & Admin Dashboards
+- Performance Analytics and Progress Tracking
+- Email Verification and Notifications via NodeMailer
+- Form Validation using Zod
+- Fast Data Fetching with TanStack Query
+- Redis Caching for Improved Performance
+
+**Challenges:**
+- Building a complete CBT IELTS exam experience
+- Implementing secure authentication with Better Auth and JWT
+- Designing scalable PostgreSQL database architecture
+- Managing server-side validation using Zod
+
+**Future Plans:**
+- AI-powered IELTS evaluation and feedback
+- Speaking test with voice recording and scoring
+- Writing assessment using AI
+- Teacher and Admin analytics dashboard
+- Payment integration for premium mock tests
+- Mobile application
+
+**🛠 Tech Stack:** `Next.js` `TypeScript` `Express.js` `PostgreSQL` `Redis` `Better Auth` `JWT` `Zod` `TanStack Query` `TanStack Form` `Axios` `NodeMailer` `Tailwind CSS` `Full Stack`
 
 ---
 
-### 2️⃣ Cinerate — Movie & Series Rating / Streaming Portal
+### 2️⃣ Cinerate
+**A modern full-stack Movie and Series Rating & Streaming Portal** where users can explore movies and TV series, stream content, rate titles, write reviews, interact through comments and likes, and manage personalized watchlists.
 
-**Overview**: A full-stack movie and TV series rating & streaming portal where users can explore titles, stream trailers, rate content, write reviews, comment, like, and manage personalized watchlists.
+[![Image](https://i.ibb.co.com/QRf0k7G/Screenshot-3.png)](https://cinetube-client-azure.vercel.app/)
 
-🔗 [Live Link](https://cinetube-client-azure.vercel.app/)
-📁 [Client Repo](https://github.com/Siiwowowow/Cinetube-Client) · [Server Repo](https://github.com/Siiwowowow/Cinetube-Server)
-
-🛠 **Tech Stack**: `Next.js` `TypeScript` `Express.js` `PostgreSQL` `Redis` `Better Auth` `JWT` `Zod` `TanStack Query` `TanStack Form` `Axios` `NodeMailer` `Tailwind CSS`
+🔗 **[Live Link](https://cinetube-client-azure.vercel.app/)** | 📁 **[Client Repo](https://github.com/Siiwowowow/Cinetube-Client)** | 📁 **[Server Repo](https://github.com/Siiwowowow/Cinetube-Server)**
 
 **Core Features:**
-- Browse movies & series, watch trailers, rate titles 1–10
-- Reviews, comments, and likes
-- Personal watchlist management
-- Role-based User/Admin dashboards with media library management
-- Redis caching for high performance
+- Browse Movies and TV Series
+- Watch Movie and Series Trailers
+- Rate Titles on a 1–10 Scale
+- Write Reviews, Comments, and Like Posts
+- Personal Watchlist Management
+- Role-based User and Admin Dashboard
+- Media Library Management for Admin
+- Secure Authentication with Better Auth
+- Redis Caching for High Performance
+
+**Challenges:**
+- Building a scalable movie and series streaming platform
+- Designing relational PostgreSQL database architecture
+- Managing ratings, reviews, comments, and likes efficiently
+- Optimizing API performance using Redis caching
+
+**Future Plans:**
+- AI-powered movie and series recommendations
+- Personalized watch history and continue watching
+- Real-time chat and discussion rooms
+- Premium subscription and offline streaming
+- Native Android and iOS applications
+
+**🛠 Tech Stack:** `Next.js` `TypeScript` `Express.js` `PostgreSQL` `Redis` `Better Auth` `JWT` `Zod` `TanStack Query` `TanStack Form` `Axios` `NodeMailer` `Tailwind CSS` `Full Stack`
 
 ---
 
-### 3️⃣ MediStore — Online Medicine Selling Platform
+### 3️⃣ MediStore
+**A complete full-stack online medicine selling platform** with customer, seller, and admin dashboards, secure payments, product management, and order tracking system.
 
-**Overview**: Complete full-stack online medicine store with customer, seller, and admin dashboards, secure payments, product management, and order tracking.
+[![Image](https://i.ibb.co.com/RGfMx08K/image.png)](https://medistore-fontend.vercel.app/)
 
-🔗 [Live Link](https://medistore-fontend.vercel.app/)
-📁 [Frontend Repo](https://github.com/Siiwowowow/Medi-store-fontend) · [Backend Repo](https://github.com/Siiwowowow/Medi-store-backend)
-
-🛠 **Tech Stack**: `Next.js` `TypeScript` `React Query` `Shadcn UI` `Axios` `React Hook Form` `Node.js` `Express.js` `PostgreSQL` `Prisma` `JWT` `Tailwind CSS`
+🔗 **[Live Link](https://medistore-fontend.vercel.app/)** | 📁 **[Client Repo](https://github.com/Siiwowowow/Medi-store-fontend)** | 📁 **[Server Repo](https://github.com/Siiwowowow/Medi-store-backend)**
 
 **Core Features:**
-- Customer, Seller & Admin dashboards
-- Secure payment gateway, medicine inventory & order management
-- Role-based authentication and access control
-- Search & filter system with responsive UI
+- Customer, Seller & Admin Dashboards
+- Online Medicine Purchase
+- Secure Payment Gateway
+- Medicine Management
+- Order Management
+- Role-based Authentication
+- Search & Filter System
+
+**Challenges:**
+- Role-based authentication system
+- Secure payment integration
+- Medicine inventory management
+- Order and prescription handling
+- API optimization with Prisma
+
+**Future Plans:**
+- Medicine recommendation system
+- Real-time order tracking
+- Doctor consultation feature
+- Advanced analytics dashboard
+
+**🛠 Tech Stack:** `Next.js` `TypeScript` `React Query` `Shadcn UI` `Axios` `React Hook Form` `Node.js` `Express.js` `PostgreSQL` `Prisma` `JWT` `Tailwind CSS`
 
 ---
 
-### 4️⃣ Sports Club Management System
+### 4️⃣ E-Commerce Website (Elite Mart)
+**Modern full-stack E-Commerce platform** built with Next.js, featuring dynamic products, user authentication, secure checkout, and an optimized shopping experience.
 
-**Overview**: Full-stack platform for managing a sports club's membership, bookings, payments, and admin operations.
+[![Image](https://i.ibb.co.com/7dfXzmXg/image.png)](https://e-commerce-elite-mart.vercel.app/)
 
-🔗 [Live Link](https://a-12-sport-org.web.app)
-📁 [GitHub Repo](https://github.com/Siiwowowow/SPORTS-CLUB-MANAGEMENT-SYSTEM)
-
-🛠 **Tech Stack**: `React` `Firebase` `Stripe` `Tailwind CSS`
+🔗 **[Live Link](https://e-commerce-elite-mart.vercel.app/)** | 📁 **[Client Repo](https://github.com/Siiwowowow/E-commerce-Elite-Mart)**
 
 **Core Features:**
-- Multi-role access system (member/admin)
-- Stripe payment integration
-- Booking management & admin dashboard
+- Dynamic Product Listing
+- Product Details Page
+- User Authentication (Signup & Login)
+- Add to Cart System
+- Responsive & Modern UI
+- Stripe Payment Integration (Planned)
 
-**Run Locally:**
-```bash
-git clone https://github.com/Siiwowowow/SPORTS-CLUB-MANAGEMENT-SYSTEM.git
-cd SPORTS-CLUB-MANAGEMENT-SYSTEM
-npm install
-npm start
-```
+**Challenges:**
+- Product management & dynamic filtering
+- User authentication & secure login system
+- Database integration with MongoDB
+- Responsive UI & optimized performance
+
+**Future Plans:**
+- Payment Gateway Integration (Stripe)
+- Admin Dashboard for Products & Orders
+- User Order History & Wishlist
+- Enhanced SEO & analytics tracking
+
+**🛠 Tech Stack:** `Next.js` `TypeScript` `Sanity` `Tailwind CSS` `Full Stack`
 
 ---
 
-### 5️⃣ LMS Project — Monon Academy
+### 5️⃣ Ezi Drop Delivery Service Platform
+**A modern delivery and logistics platform** built for Bangladeshi users, offering fast parcel delivery, rider tracking, real-time communication, and a clean dashboard experience for customers and admins.
 
-**Overview**: A modern Bangladeshi online learning platform offering structured courses, video lessons, and a smooth learning experience for SSC, HSC, Admission, and Skill-based students.
+[![Image](https://i.ibb.co.com/gZvm8kf8/Screenshot-7.png)](https://ezi-drop.vercel.app/)
 
-🔗 [Live Link](https://monon-academy.vercel.app/)
-📁 [GitHub Repo](https://github.com/Siiwowowow/Monon-Academy-Lms-Project)
-
-🛠 **Tech Stack**: `Next.js` `MongoDB` `Tailwind CSS` `React`
+🔗 **[Live Link](https://ezi-drop.vercel.app/)** | 📁 **[Client Repo](https://github.com/mahbub-alam-dave/ezi-drop)**
 
 **Core Features:**
-- Course listing with categories & video lessons
-- User authentication (Signup & Login)
-- Responsive, mobile-first UI
-
----
-
-### 6️⃣ Ezi Drop — Delivery Service Platform *(Group Project)*
-
-**Overview**: A modern delivery and logistics platform for Bangladeshi users, offering fast parcel delivery, rider tracking, real-time communication, and clean dashboards for customers and admins.
-
-🔗 [Live Link](https://ezi-drop.vercel.app/)
-📁 [GitHub Repo](https://github.com/mahbub-alam-dave/ezi-drop)
-
-🛠 **Tech Stack**: `Next.js` `MongoDB` `Tailwind CSS` `React`
+- Instant parcel booking
+- Live delivery tracking
+- User dashboard & parcel history
+- Admin parcel management
+- Real-time chat between users and delivery riders
+- Weather-based delivery updates
 
 **My Contribution:**
 - User Dashboard UI/UX and functionality
 - Admin Dashboard with parcel management tools
-- Real-time chat system between users and delivery riders
+- Real-time Chat System for users and riders
 - Weather API integration for delivery updates
-- Authentication & role-based access control
+- Authentication and role-based access control
+
+**Challenges:**
+- Designing a scalable delivery workflow
+- Real-time chat and notifications
+- Creating separate dashboards for users, riders, and admins
+
+**Future Plans:**
+- bKash & Nagad payment integration
+- Rider location live GPS tracking
+- AI-based delivery time prediction
+
+**🛠 Tech Stack:** `Next.js` `TypeScript` `MongoDB` `Tailwind CSS` `React`
 
 ---
 
-### 7️⃣ E-Commerce Elite Mart
+### 6️⃣ LMS Project – Monon Academy
+**A modern Bangladeshi online learning platform** built with Next.js, offering structured courses, video lessons, and a smooth learning experience for SSC, HSC, Admission, and Skill-based students.
 
-**Overview**: A modern full-stack e-commerce platform with dynamic products, user authentication, secure checkout flow, and an optimized shopping experience.
+[![Image](https://i.ibb.co.com/GfkMNjHy/Screenshot-6.png)](https://monon-academy.vercel.app/)
 
-🔗 [Live Link](https://e-commerce-elite-mart.vercel.app/)
-📁 [GitHub Repo](https://github.com/Siiwowowow/E-commerce-Elite-Mart)
-
-🛠 **Tech Stack**: `Next.js` `TypeScript` `Sanity` `Tailwind CSS`
+🔗 **[Live Link](https://monon-academy.vercel.app/)** | 📁 **[Client Repo](https://github.com/Siiwowowow/Monon-Academy-Lms-Project)**
 
 **Core Features:**
-- Dynamic product listing & details pages
-- User authentication and Add-to-Cart system
-- Responsive, modern UI (Stripe integration planned)
+- Course listing with categories
+- Course details with video lessons
+- User authentication (Signup & Login)
+- Responsive, mobile-friendly UI
+- MongoDB database integration
+
+**Challenges:**
+- Building a clean LMS structure for Bangladeshi learners
+- Protecting premium video content
+
+**Future Plans:**
+- bKash/Nagad payment integration
+- Instructor & Admin dashboards
+- MCQ exam system and certificates
+
+**🛠 Tech Stack:** `Next.js` `TypeScript` `MongoDB` `Tailwind CSS` `React`
+
+---
+
+### 7️⃣ Sports Club Management System
+**A full-stack management system** for managing a single sports club's data and operations. Includes features like member registration, event scheduling, and admin dashboard.
+
+[![Image](https://i.postimg.cc/JhRFvwWh/Screenshot-3.png)](https://a-12-sport-org.web.app/)
+
+🔗 **[Live Link](https://a-12-sport-org.web.app/)** | 📁 **[GitHub Repository](https://github.com/Siiwowowow/SPORTS-CLUB-MANAGEMENT-SYSTEM)**
+
+**Core Features:**
+- Multi-role System
+- Payment Gateway
+- Booking Management
+- Admin Dashboard
+
+**Challenges:**
+- Multi-role access
+- Payment integration
+- Booking system
+
+**Future Plans:**
+- Tournaments
+- Community
+- Analytics
+
+**🛠 Tech Stack:** `React` `TypeScript` `Firebase` `Stripe` `Tailwind`
 
 ---
 
 ### 8️⃣ Food Expiry Tracker
+**Smart food tracking with predictive alerts** to reduce waste through intelligent analytics.
 
-**Overview**: Smart food tracking app with predictive alerts to help reduce food waste through intelligent analytics.
+[![Image](https://i.postimg.cc/Wb2JdXjs/Screenshot-1.png)](https://food-tracker-auth.web.app/)
 
-🔗 [Live Link](https://food-tracker-auth.web.app/)
-📁 [GitHub Repo](https://github.com/Siiwowowow/Food-Tracker)
-
-🛠 **Tech Stack**: `React` `Node.js` `MongoDB` `JWT`
+🔗 **[Live Link](https://food-tracker-auth.web.app/)** | 📁 **[GitHub Repository](https://github.com/Siiwowowow/Food-Tracker)**
 
 **Core Features:**
-- Real-time food tracking & smart alerts
-- Predictive expiry analytics dashboard
-- Secure JWT-based authentication
+- AI Predictions
+- Real-time Tracking
+- Smart Alerts
+- Analytics Dashboard
+
+**Challenges:**
+- Real-time notifications
+- Predictive algorithms
+- Data security
+
+**Future Plans:**
+- Barcode scanner
+- Recipe engine
+- Social features
+
+**🛠 Tech Stack:** `React` `TypeScript` `Node.js` `MongoDB` `JWT`
 
 ---
 
 ### 🧠 Additional Skills
-- Full stack architecture (SQL + NoSQL): PostgreSQL, MongoDB, Prisma
-- Authentication systems: Better Auth, JWT, Firebase Auth, role-based access control
-- API development with Express.js, RESTful design, Zod validation
-- Frontend engineering with Next.js, React, TypeScript, TanStack Query/Form
-- Docker for containerization and deployment
-- Redis caching for performance optimization
-- Git version control & collaborative team workflows
-- Hosting/deployment via Vercel, Firebase, and Docker
+- Responsive design & mobile-first development
+- Firebase Authentication & Hosting
+- RESTful & GraphQL API integration
+- Clean UI with Tailwind & DaisyUI
+- Git version control & collaborative workflows
+- Hosting projects using Vercel, Netlify, and Firebase
+- Docker for containerization
+- Redis for performance optimization
 
 ---
 
 ### 📌 Future Goals
-- 🐹 Go deeper into **Go Lang** for high-performance backend services
-- ⚙️ Build more full-stack apps with microservice-style backend architecture
-- 🐳 Improve CI/CD workflows using **Docker** and automated pipelines
-- 💼 Contribute to open-source projects and tech communities
-- 📈 Continuously improve system design, UI/UX, and performance optimization
+- 🧩 Master **Go Lang** for building high-performance microservices.
+- ⚙️ Build more full-stack apps with **serverless architecture**.
+- 💼 Contribute to open-source projects and tech communities.
+- 📈 Continuously improve UI/UX design practices and performance optimization.
+- ☁️ Deepen expertise in **cloud computing (AWS/Azure)** and DevOps practices.
+
+---
+
+### 📝 A Note on Collaboration
+I'm actively seeking opportunities to collaborate on exciting projects. If you have a project idea or need a dedicated developer for your team, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sajjadur-rahman-fahim-9384b3379) or email.
+
+---
+
+<p align="center">
+  <i>“Building the future, one line of code at a time.”</i>
+</p>

@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Sajjadur Rahman Fahim 👋</h1>
-<h3 align="center">Full Stack Developer | Next.js & TypeScript Enthusiast</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate and results-driven **Full Stack Developer** with a strong focus on the MERN stack, but with a deep expertise in modern technologies like **Next.js, TypeScript, PostgreSQL, and Go**. My journey in software development is fueled by a love for building scalable, high-performance, and user-centric web applications.
+I'm a passionate and results-driven **Full Stack Developer** with a strong focus on the MERN stack, but with a deep expertise in modern technologies like **Next.js,Express,Node js, TypeScript, PostgreSQL,Mongodb and Go**. My journey in software development is fueled by a love for building scalable, high-performance, and user-centric web applications.
 
 I have a proven track record of delivering complex projects, from e-commerce platforms and LMS systems to specialized tools like IELTS preparation portals. I am committed to writing clean, maintainable code, exploring new technologies, and collaborating effectively within teams. I thrive on challenges that require robust backend architecture and seamless frontend experiences.
 

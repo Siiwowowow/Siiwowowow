@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/NdMcM1Sv/Yellow-Black-Geometric-Personal-Branding-Linked-In-Banner.png" alt="Sajjadur Rahman Fahim | Full Stack Developer" />
+  <img src="[https://i.ibb.co.com/NdMcM1Sv/Yellow-Black-Geometric-Personal-Branding-Linked-In-Banner.png](https://i.ibb.co.com/LX0Ws3kp/Jul-2-2026-04-07-00-PM.png)" alt="Sajjadur Rahman Fahim | Full Stack Developer" />
 </p>
 
 <h1 align="center">Hi there, I'm Sajjadur Rahman Fahim 👋</h1>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banners/profile.jpg" alt="Sajjadur Rahman Fahim — Full Stack Developer" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Sajjadur Rahman Fahim — Full Stack Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -59,13 +59,13 @@ My main stack is **Next.js, TypeScript, Node.js, Express, Prisma, and PostgreSQL
 
 ## Project showcase
 
-Explore the live applications and their source code below. Each project highlights a different application workflow and a different set of engineering decisions.
+Explore the live applications and their source code below. The previews show the real project interfaces; click an image to explore its live demo.
 
 **Quick navigation:** [Doctorly](#01--doctorly) · [IELTSPrep](#02--ieltsprep) · [EVARA](#03--evara) · [Messenger](#04--messenger-app) · [Cinerate](#05--cinerate) · [MediStore](#06--medistore) · [More projects](#more-projects)
 
 ---
 
-[![Doctorly — Telemedicine platform](./assets/banners/doctorly.jpg)](https://doctorly-fontend.vercel.app/)
+[![Doctorly — Telemedicine platform](./assets/screenshots/doctorly.jpg)](https://doctorly-fontend.vercel.app/)
 
 ### 01 · Doctorly
 
@@ -88,7 +88,7 @@ Doctorly brings patient, doctor, and administrative workflows into one healthcar
 
 ---
 
-[![IELTSPrep — IELTS practice platform](./assets/banners/ieltsprep.jpg)](https://ielts-project-client.vercel.app/)
+[![IELTSPrep — IELTS practice platform](./assets/screenshots/ieltsprep.jpg)](https://ielts-project-client.vercel.app/)
 
 ### 02 · IELTSPrep
 
@@ -112,7 +112,7 @@ IELTSPrep organizes IELTS preparation around structured practice and exam attemp
 
 ---
 
-[![EVARA — E-commerce experience](./assets/banners/evara.jpg)](https://elvyn-cloth-client.vercel.app/)
+[![EVARA — E-commerce experience](./assets/screenshots/evara.jpg)](https://elvyn-cloth-client.vercel.app/)
 
 ### 03 · EVARA
 
@@ -135,7 +135,9 @@ EVARA is an e-commerce project centered on presenting a product catalog and orga
 
 ---
 
-[![Messenger — Real-time communication](./assets/banners/messenger.jpg)](https://massange-fontend.vercel.app/)
+[![Messenger — Real-time communication](./assets/screenshots/messenger.jpg)](https://massange-fontend.vercel.app/)
+
+<sub>Public sign-in screen. The messaging workspace requires an account.</sub>
 
 ### 04 · Messenger App
 
@@ -159,7 +161,7 @@ Messenger explores the application layers behind an interactive communication pr
 
 ---
 
-[![Cinerate — Movies and series](./assets/banners/cinerate.jpg)](https://cinetube-client-azure.vercel.app/)
+[![Cinerate — Movies and series](./assets/screenshots/cinerate.jpg)](https://cinetube-client-azure.vercel.app/)
 
 ### 05 · Cinerate
 
@@ -183,7 +185,7 @@ Cinerate combines a movie and series catalog with user feedback and personal wat
 
 ---
 
-[![MediStore — Medicine marketplace](./assets/banners/medistore.jpg)](https://medistore-fontend.vercel.app/)
+[![MediStore — Medicine marketplace](./assets/screenshots/medistore.jpg)](https://medistore-fontend.vercel.app/)
 
 ### 06 · MediStore
 
@@ -207,7 +209,7 @@ MediStore organizes an online medicine marketplace around product discovery, sho
 
 ## More projects
 
-[![DreamBird — Travel and tourism](./assets/banners/dreambird.jpg)](https://dream-bird-client.vercel.app/)
+[![DreamBird — Travel and tourism](./assets/screenshots/dreambird.jpg)](https://dream-bird-client.vercel.app/)
 
 ### 07 · DreamBird Tourism
 
@@ -227,7 +229,7 @@ A travel website bringing destination discovery and travel-service information i
 
 ---
 
-[![Monon Academy — Online learning](./assets/banners/monon.jpg)](https://monon-academy.vercel.app/)
+[![Monon Academy — Online learning](./assets/screenshots/monon.jpg)](https://monon-academy.vercel.app/)
 
 ### 08 · Monon Academy
 
@@ -247,7 +249,7 @@ Monon Academy is an online learning project for organizing course discovery and 
 
 ---
 
-[![Sports Club — Club management](./assets/banners/sports.jpg)](https://a-12-sport-org.web.app/)
+[![Sports Club — Club management](./assets/screenshots/sports.jpg)](https://a-12-sport-org.web.app/)
 
 ### 09 · Sports Club Management
 
@@ -267,7 +269,7 @@ A sports club management project that brings member-facing activities and admini
 
 ---
 
-[![Elite Mart — Online storefront](./assets/banners/elitemart.jpg)](https://e-commerce-elite-mart.vercel.app/)
+[![Elite Mart — Online storefront](./assets/screenshots/elitemart.jpg)](https://e-commerce-elite-mart.vercel.app/)
 
 ### 10 · Elite Mart
 
@@ -287,7 +289,7 @@ Elite Mart explores an online storefront powered by Next.js and Sanity. Its curr
 
 ---
 
-[![Ezi Drop — Delivery and logistics](./assets/banners/ezidrop.jpg)](https://ezi-drop.vercel.app/)
+[![Ezi Drop — Delivery and logistics](./assets/screenshots/ezidrop.jpg)](https://ezi-drop.vercel.app/)
 
 ### 11 · Ezi Drop
 
@@ -309,7 +311,9 @@ Ezi Drop is a collaborative delivery platform focused on parcel workflows and co
 
 ---
 
-[![Food Expiry Tracker — Food organization](./assets/banners/foodtracker.jpg)](https://food-tracker-auth.web.app/)
+[![Food Expiry Tracker — Food organization](./assets/screenshots/foodtracker.jpg)](https://food-tracker-auth.web.app/)
+
+<sub>Earlier project screenshot.</sub>
 
 ### 12 · Food Expiry Tracker
 

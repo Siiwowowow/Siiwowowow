@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="370" viewBox="0 0 1600 370" role="img" aria-labelledby="title desc">
+<title id="title">Sajjadur Rahman Fahim — Full Stack Developer</title>
+<desc id="desc">A minimal typographic header with orange accents.</desc>
+<rect width="1600" height="370" rx="18" fill="#14171c"/>
+<path d="M70 68h42" stroke="#ff6b00" stroke-width="6"/>
+<text x="133" y="76" fill="#c6cbd2" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="4">FULL STACK DEVELOPER</text>
+<text x="70" y="179" fill="#fafafa" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="70" letter-spacing="-2">Sajjadur Rahman Fahim</text>
+<text x="73" y="228" fill="#b1bac5" font-family="Arial,Helvetica,sans-serif" font-size="25">Web applications. Clear interfaces. Connected workflows.</text>
+<path d="M72 268h1456" stroke="#30353d"/>
+<text x="73" y="316" fill="#ff9040" font-family="Arial,Helvetica,sans-serif" font-size="21">Next.js / TypeScript / Node.js / PostgreSQL</text>
+<text x="1528" y="316" text-anchor="end" fill="#919aa6" font-family="Arial,Helvetica,sans-serif" font-size="20">Dhaka, Bangladesh</text>
+</svg>
